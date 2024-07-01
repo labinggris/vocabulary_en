@@ -1,0 +1,7 @@
+[
+    {"english": "Apple", "indonesian": "Apel", "class": "Noun"},
+    {"english": "Run", "indonesian": "Lari", "class": "Verb"},
+    {"english": "Happy", "indonesian": "Bahagia", "class": "Adjective"},
+    {"english": "Book", "indonesian": "Buku", "class": "Noun"},
+    {"english": "Quickly", "indonesian": "Dengan cepat", "class": "Adverb"}
+]
